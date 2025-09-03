@@ -1,5 +1,5 @@
 // 실체 클래스
-// Phone 추상 클래스를 상속해서 SmartPhoen 자식 클래스를 정의한 것
+// Phone 추상 클래스를 상속해서 SmartPhone 자식 클래스를 정의한 것
 package chapter7.chapter7_3;
 
 public class SmartPhone extends Phone {

@@ -10,7 +10,7 @@ public class MyClassExample {
 
         System.out.println("2)------------");
 
-        MyClass myClass2 = new MyClass()(new Audio());
+        MyClass myClass2 = new MyClass(new Audio());
 
         System.out.println("3)------------");
 
